@@ -1,0 +1,10 @@
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\bin\Debug\LD Game Slutprojekt.exe.config
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\bin\Debug\LD Game Slutprojekt.exe
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\bin\Debug\LD Game Slutprojekt.pdb
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD_Game_Slutprojekt.Properties.Resources.resources
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD Game Slutprojekt.csproj.GenerateResource.cache
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD Game Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD Game Slutprojekt.exe
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD Game Slutprojekt.pdb
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD_Game.Slut_projekt.Form1.resources
+C:\Users\lawan\source\repos\LD Game Slutprojekt\LD Game Slutprojekt\obj\Debug\LD Game Slutprojekt.csproj.AssemblyReference.cache
